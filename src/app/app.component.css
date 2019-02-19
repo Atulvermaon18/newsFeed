@@ -1,0 +1,20 @@
+ 
+  .example-header-image { 
+    background-size: cover;
+  }
+  
+  .title{
+      font-weight: bold;
+  }
+  
+
+  .action-buttons{
+      text-align: center;
+  }
+     
+  .source-name {
+      margin-left:5px; 
+  }
+  
+
+  
